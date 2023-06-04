@@ -1,0 +1,6 @@
+- [ ] customise installed tools
+- [ ] basic development workflow
+- [ ] development workflow with version control
+- [ ] Demonstrate bundling extensions (`customizations`)
+- [ ] Bake and publish `devcontainer`
+- [ ] use for testing
