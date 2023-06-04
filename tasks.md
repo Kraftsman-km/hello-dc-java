@@ -6,3 +6,4 @@
 - [ ] bundling extensions (`customizations`)
 - [ ] Bake and publish `devcontainer`
 - [ ] use for testing
+- [ ] use for CI
